@@ -1,7 +1,6 @@
 package co.apptailor.googlesignin;
 
 import android.net.Uri;
-import android.support.annotation.NonNull;
 
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.ReadableArray;
@@ -14,6 +13,8 @@ import com.google.android.gms.common.api.CommonStatusCodes;
 import com.google.android.gms.common.api.Scope;
 import com.google.android.gms.common.Scopes;
 import com.google.android.gms.tasks.Task;
+
+import androidx.annotation.NonNull;
 
 public class Utils {
 
