@@ -1,5 +1,5 @@
 {
-  "name": "react-native-google-signin",
+  "name": "react-native-gizwits-google-signin",
   "version": "2.1.0",
   "description": "Google Signin for your react native applications",
   "main": "index.js",
@@ -29,13 +29,13 @@
     "ios",
     "android"
   ],
-  "homepage": "https://github.com/react-native-community/react-native-google-signin",
+  "homepage": "https://github.com/gizwits/react-native-google-signin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-community/react-native-google-signin"
+    "url": "https://github.com/gizwits/react-native-google-signin"
   },
   "bugs": {
-    "url": "https://github.com/react-native-community/react-native-google-signin/issues"
+    "url": "https://github.com/gizwits/react-native-google-signin/issues"
   },
   "peerDependencies": {
     "prop-types": "^15.5.10",
