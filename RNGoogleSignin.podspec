@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.source         = { :git => 'https://github.com/gizwits/react-native-google-signin.git', :tag => s.version }
   
 
-  s.social_media_url   = "https://github.com/gizwits/react-native-google-signin/pull/284/files"
+  s.social_media_url   = "https://github.com/gizwits/react-native-gizwits-google-signin/pull/284/files"
   s.requires_arc   = true
   s.static_framework = true
   s.platform       = :ios, '9.0'
